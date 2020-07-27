@@ -11,10 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/jsonwebtoken": "^8.5.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.9.25"
+    "inversify": "^5.0.1",
+    "inversify-express-utils": "^6.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.19",
+    "mongoose": "^5.9.25",
+    "reflect-metadata": "^0.1.13",
+    "swagger-express-ts": "^1.0.1",
+    "swagger-ui-dist": "^3.30.2"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.0",
